@@ -35,11 +35,22 @@ Desarrollado por SOLUT (experiencia en geotecnia, fundaciones, estudios de subsu
 
 **Municipios, empresas, arquitectos, perforadores, ingenierías y fondos climáticos.**
 
-## Contacto (vigente a esta fecha, verificar con Felipe)
+## Contacto (verificado en www.geosom.cl)
 
-- Web: www.geosom.cl
+- Web: www.geosom.cl (tiene WhatsApp directo enlazado)
 - Email: contacto@geosom.cl
-- Tel: +56 9 3006 2244 *(difiere del +56 9 7586 1050 que aparece en la grilla de mayo — confirmar cuál usar)*
+- Tel: **+56 9 3006 2244** ← confirmado como vigente (coincide con este PDF; el +56 9 7586 1050 de la grilla de mayo está desactualizado)
+
+## Métricas publicadas en el sitio web
+
+- COP medido: **4.2x**
+- Reducción de costos: **-80%**
+- Trazabilidad: **100%**
+- Monitoreo: **24/7 en tiempo real**
+
+## Formulario de solicitud de demo (sitio web)
+
+Campos: nombre, apellido, email corporativo, teléfono, empresa, tipo de organización, descripción del proyecto. Respuesta en 24 horas hábiles. Este set de campos valida las preguntas de calificación ya definidas en `03_Flujo_Conversacional/guion-calificacion-prospectos.md`.
 
 ## Uso para el asistente virtual
 

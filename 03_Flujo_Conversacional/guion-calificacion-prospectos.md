@@ -4,14 +4,14 @@ Basado en `01_Documentacion_Tecnica/resumen-geosom-v2.md` y `02_Marketing/resume
 
 Objetivo del flujo: captar el prospecto → calificarlo con datos de su proyecto → si califica, agendarlo directo a una **reunión técnica + evaluación económica**. Si no califica aún, dejarlo en nutrición (contenido/seguimiento) en vez de saturar la agenda del equipo técnico.
 
-> Nota: el teléfono de contacto difiere entre documentos fuente (+56 9 7586 1050 vs +56 9 3006 2244). Placeholder `{{TELEFONO}}` usado abajo — reemplazar cuando se confirme.
+Contacto vigente (verificado en www.geosom.cl): **+56 9 3006 2244** / contacto@geosom.cl / www.geosom.cl (con WhatsApp directo).
 
 ---
 
 ## 1. Mensaje de bienvenida
 
 > ¡Hola! 👋 Soy el asistente virtual de **GEOSOM by SOLUT**.
-> Ayudamos a que tu proyecto aproveche el calor del subsuelo (geotermia somera) como una fuente de climatización limpia y un activo energético comercializable — con respaldo técnico de SOLUT y CORFO.
+> Ayudamos a que tu proyecto aproveche el calor del subsuelo (geotermia somera) como una fuente de climatización limpia y un activo energético comercializable — con respaldo técnico de SOLUT y CORFO. Nuestros proyectos operan con **COP 4.2x**, hasta **-80% en costos** de climatización y **100% trazabilidad** de los datos.
 >
 > Para ver cómo podemos ayudarte, cuéntame un poco de tu proyecto. Son solo 5 preguntas rápidas (2 min) y al final coordinamos una reunión técnica con nuestro equipo. ¿Partimos?
 
@@ -89,7 +89,7 @@ Si elige "Solo quiero información" → enviar resumen breve de GEOSOM (ver secc
 >
 > 👉 [Link agenda virtual]
 >
-> Si prefieres, también puedes escribirnos directo al {{TELEFONO}} o contacto@geosom.cl.
+> Si prefieres, también puedes escribirnos directo al +56 9 3006 2244 o contacto@geosom.cl.
 
 ## 5. Mensaje de cierre — No calificado aún / solo información
 
@@ -99,7 +99,7 @@ Si elige "Solo quiero información" → enviar resumen breve de GEOSOM (ver secc
 > - Contamos con respaldo de CORFO (programa Semilla Inicia).
 > - Aplica a viviendas, edificios, colegios, hospitales y proyectos de distrito.
 >
-> Cuando tengas más definido el proyecto (fecha, etapa, tamaño), escríbeme de nuevo o contáctanos directo: {{TELEFONO}} / contacto@geosom.cl / www.geosom.cl.
+> Cuando tengas más definido el proyecto (fecha, etapa, tamaño), escríbeme de nuevo o contáctanos directo: +56 9 3006 2244 / contacto@geosom.cl / www.geosom.cl.
 > ¿Quieres que te deje agendada una llamada corta de todos modos?
 
 ---
@@ -118,7 +118,7 @@ Si elige "Solo quiero información" → enviar resumen breve de GEOSOM (ver secc
 
 ## 7. Pendientes antes de implementar en una herramienta (Manychat/n8n/etc.)
 
-- [ ] Confirmar teléfono de contacto definitivo
+- [x] Confirmar teléfono de contacto definitivo — +56 9 3006 2244 (verificado en geosom.cl)
 - [ ] Definir link de agenda virtual (Calendly/Google Calendar) y los dos tipos de evento (reunión técnica completa vs. llamada corta)
 - [ ] Validar con el equipo técnico los criterios exactos de calificación (¿hay un tamaño mínimo real de proyecto?)
 - [ ] Definir a quién se notifica internamente cuando un prospecto califica y agenda
