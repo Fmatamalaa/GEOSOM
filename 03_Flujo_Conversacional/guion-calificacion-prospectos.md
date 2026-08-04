@@ -83,6 +83,8 @@ Si elige "Solo quiero información" → enviar resumen breve de GEOSOM (ver secc
 
 ## 4. Mensaje de cierre — Calificado
 
+### 4a. Reunión técnica y evaluación económica (caso general)
+
 > ¡Gracias, {{nombre}}! Con lo que me cuentas, tu proyecto encaja bien con lo que hacemos en GEOSOM. 🎯
 >
 > Agendemos una **reunión técnica y evaluación económica** con nuestro equipo — ahí revisamos la factibilidad de geotermia en tu proyecto y te mostramos números concretos de ahorro/inversión.
@@ -91,7 +93,15 @@ Si elige "Solo quiero información" → enviar resumen breve de GEOSOM (ver secc
 >
 > Si prefieres, también puedes escribirnos directo al +56 9 3006 2244 o contacto@geosom.cl.
 
-> Nota: link temporal/compartido (plan gratuito de Calendly, 1 solo tipo de evento). Cuando se active el plan pago, reemplazar por el link específico de "Reunión técnica y evaluación económica" (ver `04_Configuracion_Agenda/configurar-calendly.md`) y crear el segundo link para "Llamada corta".
+### 4b. Llamada corta (persona natural / proyecto pequeño — ver sección 3)
+
+> ¡Gracias, {{nombre}}! Para tu proyecto, lo más eficiente es partir con una **llamada corta** para orientarte.
+>
+> 👉 https://calendly.com/fmatamala-solut/30min
+>
+> Si prefieres, también puedes escribirnos directo al +56 9 3006 2244 o contacto@geosom.cl.
+
+> Nota: `new-meeting` sigue con el slug por defecto de Calendly — funciona igual, pero se puede renombrar más adelante desde *Event Types* → *Edit* para que el link se vea más prolijo (ej. `.../reunion-tecnica-geosom`).
 
 ## 5. Mensaje de cierre — No calificado aún / solo información
 
